@@ -1,0 +1,8 @@
+streamlit
+groq
+pylint
+python
+
+pip install -r requirements.txt // installing the required packages listed in requirements.txt
+
+python -m streamlit run app.py // running the Streamlit app located in app.py after installing the required packages.
